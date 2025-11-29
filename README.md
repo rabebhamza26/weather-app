@@ -21,6 +21,8 @@ npm install react-native-gesture-handler react-native-screens
 
 npm install -D @types/react @types/react-native
 
+npm install react-native-reanimated
+
 npm install react-native-dotenv
 
 npm install

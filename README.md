@@ -1,12 +1,14 @@
 # React Native Weather App
 
 ## Description
+
 Application mobile React Native (TypeScript) avec :
 - Écran de connexion (Firebase Email/Password + Google)
 - Écran de recherche météo (OpenWeatherMap API)
 
 
-- Configuration 
+- Configuration
+  
 npm install -g expo-cli 
 npx create-react-native-app weatherApp --template with-typescript
 cd weatherApp

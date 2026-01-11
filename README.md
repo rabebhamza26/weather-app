@@ -39,7 +39,8 @@ npm install
 
 - Lancer l'application :  npx expo start
 
-![87299d3e-5df1-4590-961c-e91f7901a0a5 (1) (1)](https://github.com/user-attachments/assets/f1ece1ef-d1b9-4320-a29c-0b78fe76658d)
+<img width="269" height="495" alt="image (1)" src="https://github.com/user-attachments/assets/c1d6274c-1cfd-4354-ab46-642c93142237" />
+
 
 ![87299d3e-5df1-4590-961c-e91f7901a0a5 (1) (1)](https://github.com/user-attachments/assets/063526d2-2f59-4613-857a-208750c0426b)
   
